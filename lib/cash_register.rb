@@ -23,4 +23,4 @@ class CashRegister
     @total = @total * (1-(@discount/100).to_f)
   end
   
-    
+end
